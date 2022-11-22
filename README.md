@@ -4,8 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Utino&theme=rose_pine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Utino&theme=rose_pine&show_icons=true" align="right"  >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Utino&theme=rose_pine&hide_langs_below=1"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Utino&theme=rose_pine&hide_langs_below=1" align="right"  />
+<img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Utino&theme=rose_pine&show_icons=true">
 
 
 ### Skills
