@@ -1,6 +1,6 @@
 ## Gabriel Casimiro Utino
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Gabriel-Utino&show_icons=true&title_color=DADADA&text_color=9F9F9F&icon_color=9F9F9F&bg_color=151515&cache_seconds=2300">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Utino&theme=rose_pine&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Utino&theme=rose_pine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
